@@ -20,7 +20,7 @@ class Loopwithoutloop
     }
     public static void main(String param[])
     {Scanner sc=new Scanner(System.in);
-        System.out.println("ntr number");
+        System.out.println("ntr number");   // ntr bad, never watch ntr. ntr is the enemy of the entire existence
         input(sc.nextInt());
         System.out.println("\n\nThe factors are:");
         factor();
